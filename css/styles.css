@@ -1,0 +1,153 @@
+/*---TAG STYLING---*/
+a {
+  color: #463239;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  background-color: #FAB3A9;
+}
+
+footer {
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  background-color: #ED6B86;
+  margin-top: 25px;
+}
+
+h1 {
+  color: #463239;
+  margin: 50px auto 0 auto;
+  font-family: 'Indie Flower', cursive;
+  font-size: 6.25rem;
+}
+
+h2 {
+  font-family: 'Quicksand', sans-serif;
+  color: #463239;
+  font-size: 2.5rem;
+  margin: 0 auto 25px auto;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Quicksand', sans-serif;
+  color: #463239;
+}
+
+hr {
+  border: 0;
+  border-top: 10px dotted;
+  color: #C6AD94;
+  width: 25rem;
+  margin: 25px auto;
+}
+
+p {
+  color: #463239;
+  margin: 0;
+}
+
+/*--CLASS STYLING---*/
+.top-container {
+  padding-top: 100px;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 700px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.profile-pic {
+  border-radius: 100%;
+  width: 250px;
+  margin: 12.5px auto;
+}
+
+.introduction {
+  padding-bottom: 20px;
+}
+
+.languages-pic {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.lingue-trad {
+  text-align: left;
+  margin-left: 30px;
+}
+
+.education {
+  padding-bottom: 20px;
+  text-align: left;
+}
+
+.fractal-art {
+  border-radius: 100%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.fractal-art-title {
+  text-align: right;
+}
+
+.fractal-art-description {
+  padding-bottom: 20px;
+  text-align: right;
+}
+
+.bottom-container {
+  margin-top: 12.5px;
+  padding: 25px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.signature {
+  color: #463239;
+  font-size: 1.5rem;
+}
+
+.footer-link {
+  color: #463239;
+  font-size: 1.5rem;
+  margin: 10px 5px;
+}
+
+.btn {
+  background: #FAB3A9;
+  background-image: -webkit-linear-gradient(top, #C6AD94, #ED6B86);
+  background-image: -moz-linear-gradient(top, #C6AD94, #ED6B86);
+  background-image: -ms-linear-gradient(top, #C6AD94, #ED6B86);
+  background-image: -o-linear-gradient(top, #C6AD94, #ED6B86);
+  background-image: linear-gradient(to bottom, #C6AD94, #ED6B86);
+  -webkit-border-radius: 17;
+  -moz-border-radius: 17;
+  border-radius: 8px;
+  font-family: 'Quicksand', sans-serif;
+  color: #463239;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.sendme {
+  margin: 20px;
+}
